@@ -453,6 +453,7 @@ namespace Chess
 				// Handle the events fired by the library
 				ChessGame.ComputerThinking += new ChessLibrary.Game.ChessComputerThinking(ComputerThinking);
 
+				ChessGame.chess960 = NewGameDlg.Chess960.Checked;
 				ChessGame.Reset();	// Reset the game board
 				IsRunning = true;
 				LogCounter = 0;

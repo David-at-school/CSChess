@@ -8,3 +8,9 @@ D:\Projects\Misc\Chess\Working\ClassLibrary\bin\Debug\Chessbrary.pdb
 D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\Chessbrary.dll
 D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\Chessbrary.pdb
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\ClassLibrary\bin\Debug\Chessbrary.dll
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\ClassLibrary\bin\Debug\Chessbrary.pdb
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\ClassLibrary\obj\Debug\ChessLibrary.csproj.AssemblyReference.cache
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\ClassLibrary\obj\Debug\ChessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\ClassLibrary\obj\Debug\Chessbrary.dll
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\ClassLibrary\obj\Debug\Chessbrary.pdb

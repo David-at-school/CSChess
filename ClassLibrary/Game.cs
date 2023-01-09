@@ -34,8 +34,9 @@ namespace ChessLibrary
         private Stack m_RedoMovesHistory;	// Contains all the Redo moves made by the user
 		private Rules m_Rules;			    // Contains all the chess rules
 		private Player m_WhitePlayer;	    // White Player objectg
-		private Player m_BlackPlayer;	    // Black player object
+		private Player m_BlackPlayer;       // Black player object
 
+		public bool chess960;
 		public bool DoNullMovePruning;		// True when compute should do null move pruning to speed up search
 		public bool DoPrincipleVariation;	// True when computer should use principle variation to optimize search
 		public bool DoQuiescentSearch;		// Return true when computer should do Queiscent search
@@ -229,7 +230,7 @@ namespace ChessLibrary
 
             GameTurn = Side.SideType.White;	// In chess first turn is always of white
 			m_WhitePlayer.TimeStart();	// Player time starts
-			Board.Init();	// Initialize the board object
+			Board.Init(chess960);	// Initialize the board object
 		}
 
 		// Return back the white player reference
