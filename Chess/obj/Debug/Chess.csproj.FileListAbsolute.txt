@@ -28,3 +28,20 @@ D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.Squar.resources
 D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
 D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.exe
 D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.pdb
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\bin\Debug\Chess.exe
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\bin\Debug\Chess.pdb
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\bin\Debug\Chessbrary.dll
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.AboutBox.resources
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.CaptureBar.resources
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.NewGame.resources
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.exe
+C:\Users\dsouthern\Desktop\Classes\Software Projects in Existing Code\ExistingProjects\CSChess\Chess\obj\Debug\Chess.pdb
